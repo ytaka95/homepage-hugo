@@ -51,9 +51,4 @@ ignoreErrors = ["error-disable-taxonomy"]
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   dateFormat = "2006-01-02"
 
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
 

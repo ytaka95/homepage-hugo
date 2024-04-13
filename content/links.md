@@ -1,21 +1,23 @@
 +++
 title = 'リンク'
-date = 2024-04-13T11:01:16+09:00
+date = 2024-04-13T00:00:00+09:00
 
 [menu.main]
-name = 'Links'
+name = 'リンク'
 weight = 30
 +++
 
-以下は主にオプティマインドとしての発信用としてのアカウント
+# リンク
+
+以下は主に株式会社オプティマインドに関連する発信に利用
 
 - X (旧Twitter) ([@ytaka95](https://twitter.com/ytaka95/))
 - note ([Y.Takada](https://note.com/ytaka95))
-    - 私の[入社経緯](https://note.com/ytaka95/n/nf764363bf51f)や[立場の変更にまつわる話](https://note.com/ytaka95/n/na484bd0f0c25)などを公開しています。
+    - 私の[入社経緯](https://note.com/ytaka95/n/nf764363bf51f)や[社内での経歴](https://note.com/ytaka95/n/na484bd0f0c25)などを公開しています。
 - Zenn ([ytaka95](https://zenn.dev/ytaka95/))
     - 会社で取り組んだ技術的な取り組みなどを紹介しています。
 
-以下は個人的な発信に利用
+以下はより個人的な発信に利用
 
 - Bluesky ([rkd3.bsky.social](https://bsky.app/profile/did:plc:2gchgz27qi6pnu7haeeqpqrt))
 - しずかなインターネット ([rkd3](https://sizu.me/rkd3/))

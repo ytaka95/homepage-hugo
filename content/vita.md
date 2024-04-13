@@ -1,32 +1,36 @@
 +++
-title = '業績'
+title = '研究業績'
 date = 2024-04-13T11:01:16+09:00
 
 [menu.main]
-name = 'Vita'
+name = '研究業績'
 weight = 20
 +++
+
+# 研究業績
 
 ## 論文
 
 ### 査読付き
 
-1. Hang Dong, Yosuke Takada, Wei Wu, Mutsunori Yagiura, "A heuristic algorithm for the periodic vehicle routing problem with flexible delivery dates," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020).
-1. Yosuke Takada, Masaru Shimazaki, Yannan Hu, Mutsunori Yagiura, "Efficient algorithms for optimal pickup-point selection in the selective pickup and delivery problem with time-window constraints," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020).
+1. Hang Dong, Yosuke Takada, Wei Wu, Mutsunori Yagiura, "A heuristic algorithm for the periodic vehicle routing problem with flexible delivery dates," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020), doi: [10.1299/jamdsm.2020jamdsm0073](https://doi.org/10.1299/jamdsm.2020jamdsm0073).
+1. Yosuke Takada, Masaru Shimazaki, Yannan Hu, Mutsunori Yagiura, "Efficient algorithms for optimal pickup-point selection in the selective pickup and delivery problem with time-window constraints," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020), doi: [10.1299/jamdsm.2020jamdsm0074](https://doi.org/10.1299/jamdsm.2020jamdsm0074).
 
 ### 査読なし
 
-1. 高田陽介, 武内優太, "移動時間の時刻依存性を考慮した配送計画システムの開発," オペレーションズ・リサーチ学会機関誌, Vol. 66 No. 7 (2021).
+1. 高田陽介, 武内優太, "移動時間の時刻依存性を考慮した配送計画システムの開発," [オペレーションズ・リサーチ学会機関誌, Vol. 66 No. 7](https://orsj.org/?p=3290) (2021).
 
 ## 国際会議（口頭発表）
 
 ### 査読付き
 
+1. H. Dong, H. Iwata, T. Wakahara, Y. Takada, Y. Hu, H. Hashimoto, H. Ono, and M. Yagiura, A case study of gas replenishment scheduling with half-exchange strategy, Proceedings of the International Symposium on Scheduling (ISS 2023), Tsukuba, Japan, June 23-25, 2023.
+1. Hideki Hashimoto, Yannan Hu, Tomoki Sugiura, Yosuke Takada, Mutsunori Yagiura, "An iterated local search algorithm for commuting bus routing problem with latest arrival time constraint," 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Kuala Lumpur, Malaysia, 2022, pp. 0791-0795, doi: [10.1109/IEEM55944.2022.9989602](https://doi.org/10.1109/IEEM55944.2022.9989602)
 1. __Yosuke Takada__, Masaru Shimazaki, Yannan Hu, Mutsunori Yagiura, "Optimal pickup-point selection for the selective pickup and delivery," International Symposium on Scheduling 2019, Matsue, Shimane, July 5-7, 2019.
 1. __Hang Dong__, Yosuke Takada, Wei Wu, Mutsunori Yagiura, "A new model of the periodic vehicle routing problem with flexible delivery dates and its evaluation," International Symposium on Scheduling 2019, Matsue, Shimane, July 5-7, 2019.
 1. Yuta Takeuchi, __Yosuke Takada__, Yannan Hu, Hideki Hashimoto, Mutsunori Yagiura, "A tabu search algorithm for the multi-vehicle covering tour problem," 12th Metaheuristics International Conference, Barcelona, July 4-7, 2017.
 1. Yuta Takeuchi, __Yosuke Takada__, Yannan Hu, Hideki Hashimoto, Mutsunori Yagiura, "Efficient implementations of an iterated local search algorithm for the multi-vehicle covering tour problem," International Symposium on Scheduling 2017, June 23-25, 2017, Best Paper Award for Scheduling Theory.
-1. __Yosuke Takada__, Yannan Hu, Hideki Hashimoto, Mutsunori Yagiura, "An Iterated Local Search Algorithm for the Multi-Vehicle Covering Tour Problem," 2015 IEEE International Conference on Industrial Engineering and Engineering Management, Singapore, December 6-9, 2015.
+1. __Yosuke Takada__, Yannan Hu, Hideki Hashimoto, Mutsunori Yagiura, "An Iterated Local Search Algorithm for the Multi-Vehicle Covering Tour Problem," 2015 IEEE International Conference on Industrial Engineering and Engineering Management, Singapore, December 6-9, 2015, doi: [10.1109/IEEM.2015.7385846](https://doi.org/10.1109/IEEM.2015.7385846).
 
 （太字は発表者）
 
@@ -44,7 +48,7 @@ weight = 20
 1. __高田陽介__, "配送ルート最適化の為のAI開発の今と未来," ABEJA Cloud AI Night, 名古屋, 2018年10月22日 ([リンク](https://cloudai.connpass.com/event/103129/))
 1. __武内優太__, 高田陽介, 胡艶楠, 橋本英樹, 柳浦睦憲, "被覆制約付き配送計画問題に対する反復局所探索法とその高速化," OR学会中部支部研究発表会, 名古屋, 2017年3月4日
 1. __高田陽介__, 胡艶楠, 橋本英樹, 柳浦睦憲, "被覆制約付き配送計画問題に対するペナルティ付き評価関数を用いた局所探索法" スケジューリングシンポジウム2016, 大阪, 2016年9月24-25日.
-1. __髙田陽介__, 橋本英樹, 柳浦睦憲, "被覆制約付き配送計画問題に対する効率的局所探索法" 情報処理学会アルゴリズム研究会, 名古屋, 2015年1月13-14日.
+1. __髙田陽介__, 橋本英樹, 柳浦睦憲, "被覆制約付き配送計画問題に対する効率的局所探索法" 情報処理学会アルゴリズム研究会, 名古屋, 2015年1月13-14日. ([リンク](https://doi.org/10.1299/jamdsm.2020jamdsm0073))
 1. __髙田陽介__, 橋本英樹, 柳浦睦憲, "被覆制約付き配送計画問題に対するタブー探索法" 都市のOR, 名古屋, 2014年12月13-14日.
 
 （太字は発表者）
@@ -63,7 +67,7 @@ weight = 20
 
 ## 書き物
 
-1. 物流業界と最適化技術を繋ぐオプティマインドの取り組み, 情報玉手箱, 2022年1月 ([Web](https://tamatebako.i.nagoya-u.ac.jp/5521/), [PDF](https://nagoya.repo.nii.ac.jp/records/2005033))
+1. 物流業界と最適化技術を繋ぐオプティマインドの取り組み, 情報玉手箱, 2022年1月, doi: [10.18999/nagjni.02.016](https://doi.org/10.18999/nagjni.02.016). ([Web版](https://tamatebako.i.nagoya-u.ac.jp/5521/))
 
 ## その他
 
