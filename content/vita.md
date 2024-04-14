@@ -3,26 +3,26 @@ title = '研究業績'
 date = 2024-04-13T11:01:16+09:00
 
 [menu.main]
-name = '研究業績'
+name = 'Research Achievements'
 weight = 20
 +++
 
-# 研究業績
+# Research Achievements
 
-## 論文
+## Publications
 
-### 査読付き
+### Peer-Reviewed
 
 1. Hang Dong, Yosuke Takada, Wei Wu, Mutsunori Yagiura, "A heuristic algorithm for the periodic vehicle routing problem with flexible delivery dates," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020), doi: [10.1299/jamdsm.2020jamdsm0073](https://doi.org/10.1299/jamdsm.2020jamdsm0073).
 1. Yosuke Takada, Masaru Shimazaki, Yannan Hu, Mutsunori Yagiura, "Efficient algorithms for optimal pickup-point selection in the selective pickup and delivery problem with time-window constraints," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020), doi: [10.1299/jamdsm.2020jamdsm0074](https://doi.org/10.1299/jamdsm.2020jamdsm0074).
 
-### 査読なし
+### Non-Peer-Reviewed
 
 1. 高田陽介, 武内優太, "移動時間の時刻依存性を考慮した配送計画システムの開発," [オペレーションズ・リサーチ学会機関誌, Vol. 66 No. 7](https://orsj.org/?p=3290) (2021).
 
-## 国際会議（口頭発表）
+## International Conferences (Oral Presentations)
 
-### 査読付き
+### Peer-Reviewed
 
 1. H. Dong, H. Iwata, T. Wakahara, Y. Takada, Y. Hu, H. Hashimoto, H. Ono, and M. Yagiura, A case study of gas replenishment scheduling with half-exchange strategy, Proceedings of the International Symposium on Scheduling (ISS 2023), Tsukuba, Japan, June 23-25, 2023.
 1. Hideki Hashimoto, Yannan Hu, Tomoki Sugiura, Yosuke Takada, Mutsunori Yagiura, "An iterated local search algorithm for commuting bus routing problem with latest arrival time constraint," 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Kuala Lumpur, Malaysia, 2022, pp. 0791-0795, doi: [10.1109/IEEM55944.2022.9989602](https://doi.org/10.1109/IEEM55944.2022.9989602)
@@ -34,13 +34,13 @@ weight = 20
 
 （太字は発表者）
 
-### 招待講演
+### Invited Talks
 
 1. __高田陽介__, "移動時間の時刻依存性を考慮した配送計画システムの開発," 数理最適化: Optimization Night #6, Zoomでのオンライン開催, 2022年4月22日 ([リンク](https://optimization.connpass.com/event/244468/))
 1. __高田陽介__, "ラストワンマイル配送に対する実用的な配送計画システムの構築," 第32回RAMP数理最適化シンポジウム, Zoomでのオンライン開催, 2020年10月26, 27日 ([リンク](http://www.orsj.or.jp/ramp/2020/))
 1. 松下健, __高田陽介__, "巡回路自動生成クラウドサービスの開発," OR学会秋季研究発表会 企業事例交流会, 名古屋, 2018年9月6-7日.
 
-### 国内会議（口頭発表）
+### Domestic Conferences (Oral Presentations)
 
 1. __杉浦知樹__, 高田陽介, 胡艶楠, 橋本英樹, 柳浦睦憲, "最遅到着時刻制約付き通勤バスルーティング問題に対する発見的解法," スケジューリング学会シンポジウム, 筑波大学, 2019年9月19, 20日, pp.95-100
 1. __高田陽介__, "AIを利用した自動配送ルートシステムをAWS上でどのように運用しているか," JAWS-UG名古屋 機械学習の勉強会, 名古屋, 2019年8月28日 ([リンク](https://jawsug-nagoya.doorkeeper.jp/events/94900))
@@ -53,22 +53,22 @@ weight = 20
 
 （太字は発表者）
 
-## 特許
+## Patents
 
 1. 深谷皇紀, 高田陽介, 斉東志一, 配送計画決定装置及び配送計画決定プログラム. [特許第7148098号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7148098/35F4826408EB956A5ED3CB51A5EDF5950A3CE968224DCCFD9C9BF4F212E3BA55/15/ja). 2022年9月27日.
 1. 深谷皇紀, 高田陽介, 最適経路決定装置及び最適経路決定プログラム. [特許第7126177号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7126177/259B963AFE883F6D14C15968F1E829965D427632DABC0528DEA0E901BABB6803/15/ja). 2022年8月18日.
 1. 斉東志一, 高田陽介, 最適経路決定装置及び最適経路決定プログラム. [特許第7076121号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7076121/55E89B1B5B79D6F3098D50D88BD6D6E57E8FEE4B85A08D75C8D2EB746EB6EFBC/15/ja). 2022年5月19日.
 1. 斉東志一, 高田陽介, 最適経路決定装置及び最適経路決定プログラム. [特許第6999882号](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6999882/E9D5AE477C566F4651549A4CC46ACB1C366F547119B2A94A78FCF2A901B010F0/15/ja). 2021年12月27日.
 
-## 受賞
+## Awards
 
 1. Best paper award for scheduling theory, International Symposium on Scheduling 2017, Yuta Takeuchi, Yosuke Takada, Yannan Hu, Hideki Hashimoto, Mutsunori Yagiura, June 23-25, 2017
 1. 日本オペレーションズ・リサーチ学会 学生論文賞 高田陽介, 修士論文: "被覆制約付き配送計画問題に対する反復局所探索", 2015年9月
 
-## 書き物
+## Writings
 
 1. 物流業界と最適化技術を繋ぐオプティマインドの取り組み, 情報玉手箱, 2022年1月, doi: [10.18999/nagjni.02.016](https://doi.org/10.18999/nagjni.02.016). ([Web版](https://tamatebako.i.nagoya-u.ac.jp/5521/))
 
-## その他
+## Miscellaneous
 
 1. パネルディスカッション, Location Tech Deep Dive, Zoomでのオンライン開催, 2022年7月21日 ([リンク](https://connpass.com/event/253580/))
