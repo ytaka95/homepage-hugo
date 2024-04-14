@@ -4,7 +4,7 @@ date = 2024-04-13T00:00:00+09:00
 
 [menu.main]
 name = 'Links'
-weight = 30
+weight = 100
 +++
 
 # Links
