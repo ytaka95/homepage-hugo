@@ -24,8 +24,3 @@ weight = 100
 - [テックブログ](https://rkd3.dev)
     - プライベートでの開発や技術的な調査など。
 - Bluesky ([rkd3.bsky.social](https://bsky.app/profile/did:plc:2gchgz27qi6pnu7haeeqpqrt))
-
-その他
-
-- GitHub ([ytaka95](https://github.com/ytaka95))
-    - 特にオープンソース開発などはしていません。
