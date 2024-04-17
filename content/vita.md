@@ -1,28 +1,42 @@
 +++
-title = '研究業績'
+title = '経歴・業績'
 date = 2024-04-13T11:01:16+09:00
 
 [menu.main]
-name = 'Research Achievements'
+name = 'CV'
 weight = 20
 +++
 
-# Research Achievements
+# Curriculum Vitae
 
-## Publications
+## Education & Work Experience
 
-### Peer-Reviewed
+|      |    |                                                                                |
+|:-----|---:|:-------------------------------------------------------------------------------|
+| 2009 |  4 | 名古屋大学 工学部 電気電子・情報工学科 入学                                    |
+| 2013 |  3 | 名古屋大学 工学部 電気電子・情報工学科 卒業                                    |
+|      |  4 | 名古屋大学大学院 情報科学研究科 計算機数理科学専攻 博士課程前期課程 入学       |
+| 2015 |  3 | 名古屋大学大学院 情報科学研究科 計算機数理科学専攻 博士課程前期課程 修了       |
+|      |  4 | 日本電気通信システム株式会社 入社（ソフトウェア開発職）                        |
+| 2016 | 12 | 日本電気通信システム株式会社 退職                                              |
+| 2017 |  4 | 名古屋大学大学院 情報学研究科 数理情報学専攻 博士課程後期課程 入学             |
+|      |    | 合同会社オプティマインド 加入                                                  |
+| 2018 |  2 | 株式会社オプティマインド 取締役 就任                                           |
+| 2021 |  8 | 株式会社オプティマインド 取締役 退任 ＆ 同社 入社                              |
+| 2023 |  3 | 名古屋大学大学院 情報学研究科 数理情報学専攻 博士課程後期課程 単位取得満期退学 |
+
+## Journal Articles
+
+### Refereed
 
 1. Hang Dong, Yosuke Takada, Wei Wu, Mutsunori Yagiura, "A heuristic algorithm for the periodic vehicle routing problem with flexible delivery dates," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020), doi: [10.1299/jamdsm.2020jamdsm0073](https://doi.org/10.1299/jamdsm.2020jamdsm0073).
 1. Yosuke Takada, Masaru Shimazaki, Yannan Hu, Mutsunori Yagiura, "Efficient algorithms for optimal pickup-point selection in the selective pickup and delivery problem with time-window constraints," Journal of Advanced Mechanical Design, Systems, and Manufacturing, Vol. 14, No. 5 (2020), doi: [10.1299/jamdsm.2020jamdsm0074](https://doi.org/10.1299/jamdsm.2020jamdsm0074).
 
-### Non-Peer-Reviewed
+### Non-Refereed
 
 1. 高田陽介, 武内優太, "移動時間の時刻依存性を考慮した配送計画システムの開発," [オペレーションズ・リサーチ学会機関誌, Vol. 66 No. 7](https://orsj.org/?p=3290) (2021).
 
 ## International Conferences (Oral Presentations)
-
-### Peer-Reviewed
 
 1. H. Dong, H. Iwata, T. Wakahara, Y. Takada, Y. Hu, H. Hashimoto, H. Ono, and M. Yagiura, A case study of gas replenishment scheduling with half-exchange strategy, Proceedings of the International Symposium on Scheduling (ISS 2023), Tsukuba, Japan, June 23-25, 2023.
 1. Hideki Hashimoto, Yannan Hu, Tomoki Sugiura, Yosuke Takada, Mutsunori Yagiura, "An iterated local search algorithm for commuting bus routing problem with latest arrival time constraint," 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Kuala Lumpur, Malaysia, 2022, pp. 0791-0795, doi: [10.1109/IEEM55944.2022.9989602](https://doi.org/10.1109/IEEM55944.2022.9989602)
@@ -34,13 +48,13 @@ weight = 20
 
 （太字は発表者）
 
-### Invited Talks
+## Invited Talks
 
 1. __高田陽介__, "移動時間の時刻依存性を考慮した配送計画システムの開発," 数理最適化: Optimization Night #6, Zoomでのオンライン開催, 2022年4月22日 ([リンク](https://optimization.connpass.com/event/244468/))
 1. __高田陽介__, "ラストワンマイル配送に対する実用的な配送計画システムの構築," 第32回RAMP数理最適化シンポジウム, Zoomでのオンライン開催, 2020年10月26, 27日 ([リンク](http://www.orsj.or.jp/ramp/2020/))
 1. 松下健, __高田陽介__, "巡回路自動生成クラウドサービスの開発," OR学会秋季研究発表会 企業事例交流会, 名古屋, 2018年9月6-7日.
 
-### Domestic Conferences (Oral Presentations)
+## Domestic Conferences (Oral Presentations)
 
 1. __杉浦知樹__, 高田陽介, 胡艶楠, 橋本英樹, 柳浦睦憲, "最遅到着時刻制約付き通勤バスルーティング問題に対する発見的解法," スケジューリング学会シンポジウム, 筑波大学, 2019年9月19, 20日, pp.95-100
 1. __高田陽介__, "AIを利用した自動配送ルートシステムをAWS上でどのように運用しているか," JAWS-UG名古屋 機械学習の勉強会, 名古屋, 2019年8月28日 ([リンク](https://jawsug-nagoya.doorkeeper.jp/events/94900))
@@ -69,6 +83,6 @@ weight = 20
 
 1. 物流業界と最適化技術を繋ぐオプティマインドの取り組み, 情報玉手箱, 2022年1月, doi: [10.18999/nagjni.02.016](https://doi.org/10.18999/nagjni.02.016). ([Web版](https://tamatebako.i.nagoya-u.ac.jp/5521/))
 
-## Miscellaneous
+## Others
 
 1. パネルディスカッション, Location Tech Deep Dive, Zoomでのオンライン開催, 2022年7月21日 ([リンク](https://connpass.com/event/253580/))
