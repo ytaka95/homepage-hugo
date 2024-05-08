@@ -3,23 +3,29 @@
   your local /layouts/partials-directory -->
 
 <style>
-  body {
-      font-size: 17px;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Meiryo", sans-serif;
-  content {
-    img {
-      width: 50%;
-      max-width: 250px;
-      margin: auto;
-      display: block;
+body {
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Meiryo", sans-serif;
+    content {
+        img {
+            width: 50%;
+            max-width: 250px;
+            margin: auto;
+            display: block;
+        }
+        @media(min-width:760px) {
+            img {
+                float: right;
+                vertical-align: top;
+                margin: 1.5em;
+            }
+        }
     }
-    @media(min-width:760px) {
-      img {
-        float: right;
-        vertical-align: top;
-        margin: 1.5em;
-      }
+}
+footer {
+    padding: 25px 0 0 0;
+    p {
+        font-size: 0.7em;
     }
-  }
 }
 </style>
