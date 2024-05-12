@@ -24,7 +24,3 @@ weight = 1
 
 - 共同研究員
 - E-mail: y-takada (at) nagoya-u.jp
-
----
-
-This site is powerd by [Hugo](https://gohugo.io), using the [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog/) theme, and hosted by [Cloudflare](https://www.cloudflare.com).
