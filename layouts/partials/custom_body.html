@@ -3,9 +3,22 @@
   your local /layouts/partials-directory -->
 
 <style>
+@font-face {
+  font-family: 'Inter';
+  src: url(/fonts/inter.woff2) format('woff2');
+}
+
+:root {
+    --base-font-family: "Inter", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Avenir, var(--base-font-family);
+}
+
 body {
     font-size: 17px;
-    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
+    font-family: var(--base-font-family);
     content {
         img {
             width: 50%;
