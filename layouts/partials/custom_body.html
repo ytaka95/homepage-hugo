@@ -4,18 +4,21 @@
 
 <style>
 @font-face {
-    font-family: 'Inter';
+    font-family: 'Lato';
+    font-weight: Bold;
+    font-display: block;
+    src: local("Lato-Bold"), url(/fonts/lato-bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Lato';
     font-weight: Regular;
     font-display: block;
-    src: local("Inter-Regular"), local("Inter18pt-Regular"), url(/fonts/inter.woff2) format('woff2');
+    src: local("Lato-Regular"), url(/fonts/lato-regular.woff2) format('woff2');
 }
 
 :root {
-    --base-font-family: "Inter", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
-}
-
-h1, h2, h3 {
-    font-family: Avenir, var(--base-font-family);
+    --base-font-family: Lato, Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
 }
 
 body {
