@@ -52,7 +52,7 @@ weight = 20
 
 1. __高田陽介__, "ラストワンマイル配送計画システムによる2024年問題への対処" OR学会2024年秋季シンポジウム, 名古屋, 2024年9月9日 ([リンク](https://orsj.org/nc2024f/symposium/)).
 1. __高田陽介__, "社会課題の解決に向けた配送計画システムの開発," OR学会中部支部 特別講演会, 名古屋, 2023年3月4日 ([リンク](https://orsj.org/chubu/?p=3227)).
-1. __高田陽介__, "移動時間の時刻依存性を考慮した配送計画システムの開発," 数理最適化: Optimization Night #6, Zoomでのオンライン開催, 2022年4月22日 ([リンク](https://optimization.connpass.com/event/244468/)).
+1. __高田陽介__, "移動時間の時刻依存性を考慮した配送計画システムの開発," 数理最適化: Optimization Night #6, Zoomでのオンライン開催, 2022年4月22日 ([リンク](https://optimization.connpass.com/event/244468/), [登壇動画](https://www.youtube.com/live/gLMm0bkmJYs?si=ImGo_1xHXqMoRG07)).
 1. __高田陽介__, "ラストワンマイル配送に対する実用的な配送計画システムの構築," 第32回RAMP数理最適化シンポジウム, Zoomでのオンライン開催, 2020年10月26, 27日 ([リンク](http://www.orsj.or.jp/ramp/2020/)).
 1. 松下健, __高田陽介__, "巡回路自動生成クラウドサービスの開発," OR学会秋季研究発表会 企業事例交流会, 名古屋, 2018年9月6-7日 ([リンク](https://orsj.org/wp-content/corsj/or63-9/or63_9_564.pdf)).
 
