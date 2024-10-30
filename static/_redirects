@@ -1,2 +1,4 @@
-/vita/detail https://ytkd.jp/vita/ 301
-/field https://ytkd.jp/interests/ 301
+/vita/detail /vita/ 301
+/vita/detail/ /vita/ 301
+/field /interests/ 301
+/field/ /interests/ 301
