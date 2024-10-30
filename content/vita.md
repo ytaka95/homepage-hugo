@@ -89,7 +89,7 @@ weight = 20
 
 ## Interviews
 
-1. 配送計画問題(VRP)の研究から生まれた自動配車システムとは？物流現場で "使える" サービスを目指して, 株式会社オプティマインド, 2024年10月29日, [loogia.jp/news/vrp](https://loogia.jp/news/vrp/).
+1. 配送計画問題（VRP）の研究から生まれた自動配車システムとは？物流現場で "使える" サービスを目指して, 株式会社オプティマインド, 2024年10月29日, [loogia.jp/news/vrp](https://loogia.jp/news/vrp/).
 1. オプティマインドのCTO高田陽介さん, Humans of Meidai, 2020年12月16日, [note.com/humansofmeidai/n/n820db4e3acb8](https://note.com/humansofmeidai/n/n820db4e3acb8).
 1. 物流クライシスを消滅させる。名古屋大学発の精鋭集団 OPTIMIND が起こす日本の配送改革, Microsoft for Startups, 2019年12月9日, [microsoft.com/ja-jp/biz/startups/optimind-20191209](https://www.microsoft.com/ja-jp/biz/startups/optimind-20191209).
 1. CTO高田が語る「エンジニアが意欲的にチャレンジできる環境」とは, 株式会社オプティマインド, 2019年8月1日, [wantedly.com/companies/optimind/post_articles/180607](https://www.wantedly.com/companies/optimind/post_articles/180607)
